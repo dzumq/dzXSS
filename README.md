@@ -13,7 +13,7 @@ Supports single domain or bulk scanning from a file
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/dzXSS.git
+git clone https://github.com/dzumq/dzXSS.git
 cd dzXSS
 pip install -r requirements.txt
 ```
